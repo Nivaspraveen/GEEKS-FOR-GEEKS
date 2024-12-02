@@ -24,5 +24,5 @@ Note: No number will start with zero. Consider alphabets ' a to j ' only i.e. si
 **Topic Tags**
 *Arrays Strings Numbers palindrome  alphabets   Data Structures*
 
-Related Articles
+**Related Articles**
 https://www.geeksforgeeks.org/check-if-the-characters-in-a-string-form-a-palindrome-in-o1-extra-space/
