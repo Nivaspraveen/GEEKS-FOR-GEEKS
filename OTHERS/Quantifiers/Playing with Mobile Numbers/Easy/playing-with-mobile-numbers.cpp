@@ -1,5 +1,8 @@
-//User function Template for C++
+//Initial Template for C++
+#include<bits/stdc++.h>
+using namespace std;
 
+//User function Template for C++
 class Solution {
 	public:
 		int is_valid(string s){
@@ -20,3 +23,18 @@ class Solution {
 		    return 0;
 		}
 };
+
+int main(){
+	int tc;
+	cin >> tc;
+	while(tc--){
+		string s;
+		cin >> s;
+		Solution obj;
+		int ans = obj.is_valid(s);
+		cout << ans << "\n";
+	
+cout << "~" << "\n";
+}
+	return 0;
+}
