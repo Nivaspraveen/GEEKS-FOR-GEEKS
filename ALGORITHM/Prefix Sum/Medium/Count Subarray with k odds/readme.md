@@ -48,5 +48,6 @@ You don't have to read input or print anything. Your task is to complete the fun
 
 **Topic Tags:** 
 *prefix-sum  Hash    Algorithms*
-Related Articles
+
+**Related Articles:**
 [*Number Subarrays M Odd Numbers*](https://www.geeksforgeeks.org/number-subarrays-m-odd-numbers/)
